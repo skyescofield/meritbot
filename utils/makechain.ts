@@ -56,7 +56,7 @@ Standalone question:`,
     await OpenAIChat.new(
       {
         temperature: 0,
-        modelName: 'gpt-3.5-turbo',
+        modelName: 'gpt-4',
       },
       undefined,
       { statsigUser },
