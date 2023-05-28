@@ -2,7 +2,7 @@
  * Change the index and namespace to your own
  */
 
-const PINECONE_INDEX_NAME = 'statsigdocsandwebsitev1';
+const PINECONE_INDEX_NAME = 'meritdocs';
 
 const PINECONE_NAME_SPACE = ''; //namespace is optional for your vectors
 
